@@ -2,14 +2,15 @@
 Reinforcement learning is made using q-learning algorithm. In the built environment, the red color is the enemy, the green color is the food, and the blue color is the car, which must escape from the enemy and reach the food.
 
 ## Results
-
+https://user-images.githubusercontent.com/113052872/191722047-afbf5de1-e532-4b59-bf32-f68056362add.mp4
 
 ## Q_Learning
 The q-learning formula is as follows:
 Formula:
+![screen2](https://user-images.githubusercontent.com/113052872/191721459-c5197461-554f-4fd1-a88b-ae04b88c21b7.jpg)
 
 Formula in Python format:
-
+![screen](https://user-images.githubusercontent.com/113052872/191721513-ec557f03-f3a9-415e-9f01-3fdad9f0e228.jpg)
 
 ### Requirements
 Running `Q-learning-python` requires:
