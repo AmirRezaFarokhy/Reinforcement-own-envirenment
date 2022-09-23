@@ -1,5 +1,5 @@
 # Description
-Reinforcement learning is made using q-learning algorithm. In the built environment, the red color is the enemy, the green color is the food, and the blue color is the car, which must escape from the enemy and reach the food.
+Reinforcement learning is made using q-learning algorithm. In the built environment, the red color is the enemy, the green color is the food, and the blue color is the Robot(player), which must escape from the enemy and reach the food.
 
 ## Results
 https://user-images.githubusercontent.com/113052872/191722047-afbf5de1-e532-4b59-bf32-f68056362add.mp4
